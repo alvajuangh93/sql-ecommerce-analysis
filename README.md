@@ -27,11 +27,19 @@ Analyzed which countries generate more revenue.
 ### 5. Customer Order Frequency
 Measured how many orders each customer made.
 
+## Business Value
+This analysis helps a business:
+
+- Identify top customers
+- Understand best-selling products
+- Analyze revenue distribution by country
+- Improve sales strategy
+
 ## Key Insights
 
-- Juan is the highest spending customer
-- Mouse is the most sold product
-- Argentina generates the highest revenue
+- Juan contributes the highest revenue, indicating a high-value customer segment
+- Mouse is the most sold product, suggesting strong demand for low-cost items
+- Argentina leads in revenue, indicating a strong regional market
 
 ## Skills Demonstrated
 
